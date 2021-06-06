@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="23" started-at="2021-06-06T09:03:21Z" finished-at="2021-06-06T09:03:21Z">
+  <suite name="Suite" duration-ms="12677" started-at="2021-06-06T13:32:46Z" finished-at="2021-06-06T13:32:59Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="23" started-at="2021-06-06T09:03:21Z" finished-at="2021-06-06T09:03:21Z">
+    <test name="Test" duration-ms="12677" started-at="2021-06-06T13:32:46Z" finished-at="2021-06-06T13:32:59Z">
       <class name="Test.Test.AppTest">
-        <test-method status="PASS" signature="shouldAnswerWithTrue()[pri:0, instance:Test.Test.AppTest@1d082e88]" name="shouldAnswerWithTrue" duration-ms="7" started-at="2021-06-06T09:03:21Z" finished-at="2021-06-06T09:03:21Z">
+        <test-method status="PASS" signature="shouldAnswerWithTrue()[pri:0, instance:Test.Test.AppTest@124c278f]" name="shouldAnswerWithTrue" duration-ms="12657" started-at="2021-06-06T13:32:46Z" finished-at="2021-06-06T13:32:59Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- shouldAnswerWithTrue -->
